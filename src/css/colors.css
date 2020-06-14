@@ -1,0 +1,31 @@
+.active {
+    opacity: 0.5;
+}
+
+.dark-grey {
+    color: #5D5D5D;
+}
+
+.light-grey-text {
+    color: #B2B2B2;
+}
+
+    .light-grey-bg {
+        background-color: #F5F5F5;
+    }
+
+.green {
+    color: #1AAFA8;
+}
+
+.tinder-red-bg {
+    background-color: #FF5864;
+}
+
+.white {
+    color: #fff;
+}
+
+    .white-bg {
+        background-color: #fff;
+    }
